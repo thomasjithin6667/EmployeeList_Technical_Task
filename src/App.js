@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { SquareUser } from 'lucide-react';
+import './App.css'
 
 function App() {
   const initialData = [
